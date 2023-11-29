@@ -1,0 +1,10 @@
+# # 임의로 새롭게 데이터 베이스 업데이트될 상황
+# final_df_for_clustering_algorithm.loc['39af54']['인지-주의력-패턴 따라하기-3'] = [-1.0, -1.0]
+# final_df_for_clustering_algorithm.loc['39af54']['인지-기억력-숫자 기억하기-3'] = [-1.0, -1.0]
+# final_df_for_clustering_algorithm.loc['39af54']['인지-주의력-같은 그림 확인하기-1'] = [0.5, 1.0]
+# final_df_for_clustering_algorithm.loc['39af54']['인지-주의력-패턴 따라하기-1'] = [0.5, 1.0]
+# final_df_for_clustering_algorithm.loc['39af54']['인지-기억력-숫자 기억하기-2'] = [0.5, 1.0]
+# final_df_for_clustering_algorithm.loc['39af54']['인지-기억력-같은 소리 기억하기-4'] = [0.5, 1.0]
+# final_df_for_clustering_algorithm.loc['39af54']['인지-기억력-위치 기억하기-3'] = [0.5, 1.0]
+# final_df_for_clustering_algorithm.loc['39af54']['언어-읽기-단어-그림 매칭하기-1'] = [0.5, 1.0]
+# final_df_for_clustering_algorithm.loc['39af54']['언어-쓰기-빈칸 쓰기-1'] = [0.5, 1.0]
