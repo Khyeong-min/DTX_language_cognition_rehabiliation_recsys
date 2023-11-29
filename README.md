@@ -1,0 +1,2 @@
+# DTX_language_cognition_rehabiliation_recsys
+Recommendation system for Language and Cognition disorder Rehabiliation
